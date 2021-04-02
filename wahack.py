@@ -55,7 +55,7 @@ async def _(event):
 
             "Hacking complete!\nUploading file...",
 
-            "Targeted Account Hacked...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12`"
+            "Targeted Account Hacked By White Devil X...!\n\n ✅ File has been successfully uploaded to my server.\nWhatsApp Database:\n`./DOWNLOADS/msgstore.db.crypt12`"
 
         ]
     for i in animation_ttl:
