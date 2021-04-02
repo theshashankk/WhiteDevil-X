@@ -41,7 +41,7 @@ async def _(event):
             await event.client.forward_messages(chat, reply_message)
             response = await response
         except YouBlockedUserError:
-            await hellevent.edit("`Please unblock `@DrWebBot `and try again`")
+            await hellevent.edit("`Kindly unblock `@DrWebBot `and try again`")
             return
         if response.text.startswith("Forward"):
             await hellevent.edit(
