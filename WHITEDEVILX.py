@@ -24,20 +24,20 @@ xbot = TelegramClient("legend", API_ID, API_HASH).start(bot_token=token)
 import time
 botnickname = os.environ.get("BOT_NICK_NAME")
 ALIVE_NAME = os.environ.get("ALIVE_NAME")
-BOT = str(botnickname) if botnickname else "υℓтяα χ"
-NAME = str(ALIVE_NAME) if ALIVE_NAME else "υℓтяα χ"
+BOT = str(botnickname) if botnickname else "Wʜɪᴛᴇ Dᴇᴠɪʟ X"
+NAME = str(ALIVE_NAME) if ALIVE_NAME else "Wʜɪᴛᴇ Dᴇᴠɪʟ X"
 PHOTO = os.environ.get("ALIVE_PHOTTO", None)
-ULTRAX = "[ULTRA X](https://t.me/ULTRAXOT)"
+ULTRAX = "[Wʜɪᴛᴇ Dᴇᴠɪʟ X](https://t.me/WHITEDEVILOT)"
 VERSION = "0.0.1"
 ALIVE_USERNAME = os.environ.get("ALIVE_USERNAME", None)
 ALIVE_BOT_USERNAME = os.environ.get("ALIVE_BOT_USERNAME", None)
 devs = devs
 ID = ID
 id = id
-REPO = "[υℓтяα χ вσт](https://github.com/ULTRA-OP/ULTRA-X)"
+REPO = "[Wʜɪᴛᴇ Dᴇᴠɪʟ X](https://github.com/theshashankk/WhiteDevil-X)"
 
 MASTER = NAME
-GROUP = "[SUPPORT GROUP](https://t.me/UltraXChat)"
+GROUP = "[Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ](https://t.me/WhiteDevil_Support)"
 if __name__=="__main__":
   bot.run()
   bot.run_until_disconnected()
