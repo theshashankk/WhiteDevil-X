@@ -1,5 +1,5 @@
-* <b><a href ="https://github.com/ULTRA-OP/ULTRA-X#%CF%85%E2%84%93%D1%82%D1%8F%CE%B1-%CF%87-%D0%B2%CF%83%D1%82">Aʙᴏᴜᴛ υℓтяα χ </a>
-* <b><a href="https://github.com/ULTRA-OP/ULTRA-X/blob/main/README.md#s%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%9Cs-o%D2%93-t%CA%9C%C9%AAs-b%E1%B4%8F%E1%B4%9B">υℓтяα χ Sᴛᴀᴛᴜs <a/>
+* <b><a href ="https://github.com/ULTRA-OP/ULTRA-X#%CF%85%E2%84%93%D1%82%D1%8F%CE%B1-%CF%87-%D0%B2%CF%83%D1%82">Aʙᴏᴜᴛ Wʜɪᴛᴇ Dᴇᴠɪʟ X</a>
+* <b><a href="https://github.com/ULTRA-OP/ULTRA-X/blob/main/README.md#s%E1%B4%9B%E1%B4%80%E1%B4%9B%E1%B4%9Cs-o%D2%93-t%CA%9C%C9%AAs-b%E1%B4%8F%E1%B4%9B">Wʜɪᴛᴇ Dᴇᴠɪʟ X<a/>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/legendx22/LEGEND-BOT?utm_source=github.com&utm_medium=referral&utm_content=legendx22/LEGEND-BOT&utm_campaign=Badge_Grade_Settings)
 [![Python 3.8.6](https://img.shields.io/badge/Python-3.8.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-386/)
@@ -7,14 +7,14 @@
 [![HitCount](http://hits.dwyl.com/ULTRA-OP/ULTRA-X.svg)](http://hits.dwyl.com/ULTRA-OP/ULTRA-X)
 
 
-# υℓтяα χ вσт
-This is a ULTRA made for telegram. I made this ULTRA with help of all other ULTRAs available in telegram. All credits goes to its Respective Owners....
+# Wʜɪᴛᴇ ᴅᴇᴠɪʟ X
+This is a White Devil made for telegram. I made this White Devil with help of all other USERBOT available in telegram. All credits goes to its Respective Owners....
 
-This is the one and only official υℓтяα χ вσт made by [ Team Ultra](https://t.me/ULTRAXOT) 
+This is the one and only official Wʜɪᴛᴇ Dᴇᴠɪʟ X made by [ Team White Devil](https://t.me/whitedevilot) 
 
 Also join [support channel and group](https://github.com/ULTRA-OP/ULTRA-X#o%D2%93%D2%93%C9%AA%E1%B4%84%C9%AA%E1%B4%80%CA%9F-s%E1%B4%9C%E1%B4%98%E1%B4%98%E1%B4%8F%CA%80%E1%B4%9B) Enjoy Your Bot!!💝
 
-[![υℓтяα χ вσт ℓσgσ](https://telegra.ph/file/3319f8a33ea113509e179.jpg)](https://t.me/ULTRAXOT)
+[![Wʜɪᴛᴇ Dᴇᴠɪʟ X](https://telegra.ph/file/10d279ab911d397276ae5.jpg)](https://t.me/ULTRAXOT)
 
 -------------------------------------------------
 
