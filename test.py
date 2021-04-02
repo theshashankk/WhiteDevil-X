@@ -22,7 +22,7 @@ async def _(event):
         await asyncio.sleep(2)
         await event.edit("__Output Successful__")
         await asyncio.sleep(3.5)
-        await event.edit("Your[WHITE DEVIL X](https:/t.me/whitedevil_) is working Fine...\n       Join @teamishere For Any Help......")
+        await event.edit("Your[WHITE DEVIL X](https:/t.me/whitedevil_support) is working Fine...\n       Join @whitedevil_support For Any Help......")
 
 CMD_HELP.update(
     {
