@@ -10,7 +10,9 @@ from telethon.sessions import StringSession
 print("""Please go-to my.telegram.org
 Login using your Telegram account
 Click on API Development Tools
-Create a new application, by entering the required details""")
+Create a new application, by entering the required details
+copyright;- [white devil](https://www.github.com/theshashank/whitedevil-x)
+""")
 APP_ID = int(input("Enter APP ID here: "))
 API_HASH = input("Enter API HASH here: ")
 
