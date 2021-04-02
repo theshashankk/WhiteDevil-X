@@ -12,9 +12,9 @@ from telethon import events
 async def _(event):
      if not event.text[0].isalpha() and event.text[0] not in ("/", "#", "@", "!"):
        
-        await event.edit("`Testing ULTRA X....`")
+        await event.edit("`Testing WHITE DEVIL X....`")
         await asyncio.sleep(2)
-        await event.edit("`Testing ULTRA X..`")
+        await event.edit("`Testing WHITE DEVIL X..`")
         await asyncio.sleep(2)
         await event.edit("__Testing Successful__")
         await asyncio.sleep(2)
