@@ -115,7 +115,7 @@ thumb_image_path = "./resources/541200.png"
 
 
 
-LIGHTNINGUSER = str(ALIVE_NAME) if ALIVE_NAME else "LEGEND BOY"
+LIGHTNINGUSER = str(ALIVE_NAME) if ALIVE_NAME else "WHITE DEVIL X"
 
 LIGHTNINGBOT = Var.TG_BOT_TOKEN_BF_HER
 
@@ -136,7 +136,7 @@ BOT_MSG = os.environ.get("BOT_MSG", None)
 
 if BOT_MSG is None:
 
-    BOT_LIT = f"Hello Sir MySelf ULTRA X Here For  {LIGHTNINGUSER}'s Protection "
+    BOT_LIT = f"Hello Sir MySelf WHITE DEVIL X Here For  {LIGHTNINGUSER}'s Protection "
 
 else:
 
@@ -176,7 +176,7 @@ LIGHTNING_BOT_PIC = os.environ.get("PMPERMIT_PIC", None)
 
 if LIGHTNING_BOT_PIC is None:
 
-    LIGHTNING_WARNING = "https://telegra.ph/file/a44f1363bddbba84a2b98.jpg"
+    LIGHTNING_WARNING = "https://telegra.ph/file/10d279ab911d397276ae5.jpg"
 
 else:
 
@@ -239,7 +239,7 @@ async def inline_handler(lightning):
 
                 [custom.Button.inline("Help", data="what?")],
 
-                [Button.url("Commands Not Working🤔", "https://t.me/teamishere")],
+                [Button.url("Commands Not Working🤔", "https://t.me/WhiteDevil_Support")],
 
                 [Button.url("Help Article 🤔", "https://app.gitbook.com/@poxsisofficial/s/help/")],
 
@@ -251,7 +251,7 @@ async def inline_handler(lightning):
 
                     "Want To Learn CMDS☺️☺️",
 
-                    "https://t.me/teamishere" ,
+                    "https://t.me/WhiteDevilot" ,
 
                     )
 
@@ -393,7 +393,7 @@ async def lightning_pugins_query_hndlr(lightning):
 
            lightning_is_best = lightning_help_strin 
 
-           lightning_is_best += "\n\n**In Case Any Problem @teamishere** ".format(light_pulu_name)
+           lightning_is_best += "\n\n**In Case Any Problem @whitedevilsupport** ".format(light_pulu_name)
 
         
 
@@ -425,7 +425,7 @@ async def lightning_pugins_query_hndlr(lightning):
 
                 for i in CMD_LIST[light_pulu_name]:
 
-                    lightning_help_strin  = f"**🔱🔱 NAME 🔱🔱 :** `{light_pulu_name}` \n\n `{CMD_LIST[light_pulu_name]}\n`**Details**- Not Yetðð\n\n**Ask at @teamishere"
+                    lightning_help_strin  = f"**🔱🔱 NAME 🔱🔱 :** `{light_pulu_name}` \n\n `{CMD_LIST[light_pulu_name]}\n`**Details**- Not Yetðð\n\n**Ask at @whitedevil_support"
 
                     lightning_help_strin += "\n    " + i
 
@@ -435,13 +435,13 @@ async def lightning_pugins_query_hndlr(lightning):
 
     else:
 
-           lightning_help_strin  = f"**🔱🔱 NAME 🔱🔱 :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n**Details** - Not Yetðð\n\n**Ask at @teamishere"
+           lightning_help_strin  = f"**🔱🔱 NAME 🔱🔱 :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n**Details** - Not Yetðð\n\n**Ask at @whitedevil_support"
 
            lightning_is_best = lightning_help_strin 
 
-           lightning_is_best += "\n\n**In Case Any Problem @teamishere** ".format(light_pulu_name)
+           lightning_is_best += "\n\n**In Case Any Problem @whitedevil_support** ".format(light_pulu_name)
 
-    lightning_help_strin = f"**🔱🔱 NAME 🔱🔱 :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n**Details** - Not Set for this Plugin 😑\n\n**Ask at @teamishere"
+    lightning_help_strin = f"**🔱🔱 NAME 🔱🔱 :** `{light_pulu_name}` \n\n`{CMD_LIST[light_pulu_name]}`\n**Details** - Not Set for this Plugin 😑\n\n**Ask at @whitedevil_suppport"
 
     lightning_is_best = lightning_help_strin 
 
@@ -943,9 +943,9 @@ async def ho(event):
 
     buttons = lightnings_menu_for_help(0, CMD_LIST, "helpmepro")
 
-    ho = f"""LEGENDBOT Is Here With Stunning Help !\n
+    ho = f"""WHITE  DEVIL Is Here With Stunning Help !\n
 
-In Case Any Problem @teamishere \nTottal Plugs( 🧐): {len(CMD_LIST)}"""
+In Case Any Problem @whitedevil_support \nTottal Plugs( 🧐): {len(CMD_LIST)}"""
 
     await event.edit(message=ho, buttons=buttons)
 
